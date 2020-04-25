@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/generate-cafe-ideas/static/css/main.eca13402.chunk.css",
+    "main.js": "/generate-cafe-ideas/static/js/main.aaa0cef0.chunk.js",
+    "main.js.map": "/generate-cafe-ideas/static/js/main.aaa0cef0.chunk.js.map",
+    "runtime-main.js": "/generate-cafe-ideas/static/js/runtime-main.f5a836d4.js",
+    "runtime-main.js.map": "/generate-cafe-ideas/static/js/runtime-main.f5a836d4.js.map",
+    "static/js/2.64347571.chunk.js": "/generate-cafe-ideas/static/js/2.64347571.chunk.js",
+    "static/js/2.64347571.chunk.js.map": "/generate-cafe-ideas/static/js/2.64347571.chunk.js.map",
+    "index.html": "/generate-cafe-ideas/index.html",
+    "precache-manifest.7eb78d27581c43b9533c7131774dc42f.js": "/generate-cafe-ideas/precache-manifest.7eb78d27581c43b9533c7131774dc42f.js",
+    "service-worker.js": "/generate-cafe-ideas/service-worker.js",
+    "static/css/main.eca13402.chunk.css.map": "/generate-cafe-ideas/static/css/main.eca13402.chunk.css.map",
+    "static/js/2.64347571.chunk.js.LICENSE.txt": "/generate-cafe-ideas/static/js/2.64347571.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5a836d4.js",
+    "static/js/2.64347571.chunk.js",
+    "static/css/main.eca13402.chunk.css",
+    "static/js/main.aaa0cef0.chunk.js"
+  ]
+}
