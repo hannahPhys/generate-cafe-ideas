@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/generate-cafe-ideas/static/css/main.eca13402.chunk.css",
-    "main.js": "/generate-cafe-ideas/static/js/main.aaa0cef0.chunk.js",
-    "main.js.map": "/generate-cafe-ideas/static/js/main.aaa0cef0.chunk.js.map",
+    "main.css": "/generate-cafe-ideas/static/css/main.d74ba86f.chunk.css",
+    "main.js": "/generate-cafe-ideas/static/js/main.1794966c.chunk.js",
+    "main.js.map": "/generate-cafe-ideas/static/js/main.1794966c.chunk.js.map",
     "runtime-main.js": "/generate-cafe-ideas/static/js/runtime-main.f5a836d4.js",
     "runtime-main.js.map": "/generate-cafe-ideas/static/js/runtime-main.f5a836d4.js.map",
-    "static/js/2.64347571.chunk.js": "/generate-cafe-ideas/static/js/2.64347571.chunk.js",
-    "static/js/2.64347571.chunk.js.map": "/generate-cafe-ideas/static/js/2.64347571.chunk.js.map",
+    "static/css/2.29329471.chunk.css": "/generate-cafe-ideas/static/css/2.29329471.chunk.css",
+    "static/js/2.493c96a6.chunk.js": "/generate-cafe-ideas/static/js/2.493c96a6.chunk.js",
+    "static/js/2.493c96a6.chunk.js.map": "/generate-cafe-ideas/static/js/2.493c96a6.chunk.js.map",
     "index.html": "/generate-cafe-ideas/index.html",
-    "precache-manifest.7eb78d27581c43b9533c7131774dc42f.js": "/generate-cafe-ideas/precache-manifest.7eb78d27581c43b9533c7131774dc42f.js",
+    "precache-manifest.117e304f1f9c75a5933b2020f7790e95.js": "/generate-cafe-ideas/precache-manifest.117e304f1f9c75a5933b2020f7790e95.js",
     "service-worker.js": "/generate-cafe-ideas/service-worker.js",
-    "static/css/main.eca13402.chunk.css.map": "/generate-cafe-ideas/static/css/main.eca13402.chunk.css.map",
-    "static/js/2.64347571.chunk.js.LICENSE.txt": "/generate-cafe-ideas/static/js/2.64347571.chunk.js.LICENSE.txt"
+    "static/css/2.29329471.chunk.css.map": "/generate-cafe-ideas/static/css/2.29329471.chunk.css.map",
+    "static/css/main.d74ba86f.chunk.css.map": "/generate-cafe-ideas/static/css/main.d74ba86f.chunk.css.map",
+    "static/js/2.493c96a6.chunk.js.LICENSE.txt": "/generate-cafe-ideas/static/js/2.493c96a6.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/generate-cafe-ideas/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/generate-cafe-ideas/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f5a836d4.js",
-    "static/js/2.64347571.chunk.js",
-    "static/css/main.eca13402.chunk.css",
-    "static/js/main.aaa0cef0.chunk.js"
+    "static/css/2.29329471.chunk.css",
+    "static/js/2.493c96a6.chunk.js",
+    "static/css/main.d74ba86f.chunk.css",
+    "static/js/main.1794966c.chunk.js"
   ]
 }
