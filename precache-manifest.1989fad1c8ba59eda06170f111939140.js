@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "403519ab47d2f9411d673ac8450755b7",
+    "revision": "f0d62d3e69fe42c1bea73ad66b7d03fc",
     "url": "/generate-cafe-ideas/index.html"
   },
   {
-    "revision": "fc6be1a2923e0e926a37",
+    "revision": "7daeb9e39036b42790b2",
     "url": "/generate-cafe-ideas/static/css/2.29329471.chunk.css"
   },
   {
-    "revision": "6e1e4c36f0447996bd84",
+    "revision": "ab1b0445e98bf0b87a90",
     "url": "/generate-cafe-ideas/static/css/main.d74ba86f.chunk.css"
   },
   {
-    "revision": "fc6be1a2923e0e926a37",
-    "url": "/generate-cafe-ideas/static/js/2.493c96a6.chunk.js"
+    "revision": "7daeb9e39036b42790b2",
+    "url": "/generate-cafe-ideas/static/js/2.43f4001d.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/generate-cafe-ideas/static/js/2.493c96a6.chunk.js.LICENSE.txt"
+    "url": "/generate-cafe-ideas/static/js/2.43f4001d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e1e4c36f0447996bd84",
-    "url": "/generate-cafe-ideas/static/js/main.1794966c.chunk.js"
+    "revision": "ab1b0445e98bf0b87a90",
+    "url": "/generate-cafe-ideas/static/js/main.1d22ab4f.chunk.js"
   },
   {
     "revision": "dcdebad8e3ae3395599b",
