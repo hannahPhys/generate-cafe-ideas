@@ -4,3 +4,5 @@ I was thinking about going in with a friend to start up a cafe in Australia. Whe
 Hardest part was having to google "GoDaddy" way too often during this process. 
 
 Anyway, the site picks out some random Adjective then a Noun and adds cafe at the end. Easy as. 
+
+Here's hoping someone out there makes an apocalyptic vegan cafe. 
