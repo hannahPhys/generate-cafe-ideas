@@ -1,11 +1,9 @@
 
 .App {
 	text-align: center;
+	padding:50px;
 }
-.App-logo {
-	height: 40vmin;
-	pointer-events: none;
-}
+
 .App-header {
 	background-color: #282c34;
 	min-height: 100vh;
@@ -23,4 +21,15 @@
 	.App-logo {
 		animation: App-logo-spin infinite 20s linear;
 	}
+}
+.resultsText{
+	padding:20px;
+}
+
+footer  .footer-copyright {
+	background-color: white !important;
+	color:wheat !important;
+}
+.mcbcol-about{
+	color:wheat !important;
 }

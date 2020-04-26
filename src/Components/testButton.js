@@ -10,7 +10,7 @@ class Toggle extends React.Component {
 	handleClick() {
 		var adjectives = ["Modern", "Boho", "Simple", "Quiet", "Quirky", "Rustic", "Classic", "90's", "80's", "70's", "2000's", "Retro", "Chic", "Spacey", "Urban", "Rural", "Oaky", "Surfy", "Carnival", "Ugly", "Vegan", "Apocalyptic", "Family-Friendly", "Healthy", "Hipster", "Royal", "Greek", "Hippie", "Arabian", "Western", "Outdoor", "Caribbean", "Futuristic", "Parisian", "Co-working", "Student", "Eco-Friendly"];
 
-		var nouns = ["Safari", "Beach", "Garden", "Neon", "Rooftop", "Cat", "Boatshed", "Country", "Oktoberfest", "Chocolate", "Disney", "Health", "Vegan", "Family-Friendly", "Child", "Playground", "Disco", "Turkish", "Pirate", "Star Wars", "Apres Ski", "BBQ", "Festival", "Student", "Co-working", "Sidewalk", "Takeaway"];
+		var nouns = ["Safari", "Beach", "Garden", "Neon", "Rooftop", "Cat", "Boatshed", "Country", "Oktoberfest", "Chocolate", "Disney", "Health", "Vegan", "Family-Friendly", "Children's", "Playground", "Disco", "Turkish", "Pirate", "Star Wars", "Apres Ski", "BBQ", "Festival", "Student", "Co-working", "Sidewalk", "Takeaway", "Fitness", "Juice"];
 
 		var cafeTypes = ["Bakery", "Restaurant", "Shop", "Cafeteria", "Buffet", "Tea Rooms", "Tea Shop", "Bistro", "Wine Bar", "Bar", "Pub", "Eatery", "Caf", "Coffee House", "Tavern"];
 
@@ -25,7 +25,7 @@ class Toggle extends React.Component {
 		return array[Math.floor(Math.random() * array.length)];
 	}
 	render() {
-		return <><button onClick={this.handleClick}>Generate Ideas</button> <h3>{this.state.title}</h3></>;
+		return <><button className="generateButton" onClick={this.handleClick}>Generate Ideas</button> <></><h2 className="resultsText">{this.state.title}</h2></>;
 	}
 }
 
