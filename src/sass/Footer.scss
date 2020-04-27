@@ -1,0 +1,26 @@
+@import "../sass/Colors.scss";
+@import "../sass/Fonts.scss";
+
+footer {
+    background: none;
+    border-top: whitesmoke 1px solid;
+    font-family: TamilMN;
+    font-weight: normal;
+    font-size: 14px;
+
+    .col {
+        padding: 12px;
+    }
+
+    .container-fluid {
+        max-width: 800px;
+    }
+
+    .mdbcol-copy {
+        color: whitesmoke;
+    }
+
+    .mcbcol-about {
+        color: whitesmoke;
+    }
+}

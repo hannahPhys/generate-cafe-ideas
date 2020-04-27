@@ -1,0 +1,89 @@
+@import "../sass/Colors.scss";
+@import "../sass/Fonts.scss";
+
+html,
+body,
+#root,
+.App {
+    height: 100%
+}
+
+.App {
+    background-color: $gcDarkGreen;
+}
+
+h1 {
+    font-family: TamilMN;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 15px;
+    color: $gcWhite;
+}
+
+h2 {
+    font-family: TamilMN;
+    font-weight: normal;
+    font-size: 72px;
+}
+
+p {
+    font-family: TamilMN;
+    font-weight: normal;
+}
+
+button {
+    font-family: TamilMN;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+.resultsText {
+    padding: 35px;
+    color: $gcWhite;
+}
+
+.centerBlock {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 900px;
+    height: 300px;
+    text-align: center;
+}
+
+/* Buttons styles start */
+button {
+    display: inline-block;
+    padding: 0.8rem 2rem;
+    margin: 0;
+    text-decoration: none;
+    color: $gcWhite;
+    background: none;
+    border: 1px solid $gcWhite;
+    border-radius: 25px;
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+    text-align: center;
+    transition: background 250ms ease-in-out, transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+button:hover,
+button:focus {
+    // background: #0053ba;
+}
+
+button:focus {
+    outline: none;
+}
+
+button:active {
+    transform: scale(0.98);
+}
+
+/* Button styles end */

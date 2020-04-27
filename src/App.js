@@ -1,19 +1,19 @@
 import React from 'react';
-import Toggle from './Components/testButton.js';
-import FooterPage from './Components/FooterPage.js';
+import GeneratorButton from './Components/generateButton.js';
+import Footer from './Components/footer.js';
 
-import './Styles/App.scss';
+import './sass/App.scss';
 
 function App() {
   return (
     <div className="App ">
-      <div className="center">
-        <h3>
+      <div className="HeaderTopLeft">
+        <h1>
           Cafe Idea Generator
-        </h3>
-        <Toggle />
+        </h1>
       </div>
-      <><FooterPage /></>
+      <GeneratorButton />
+      <><Footer /></>
     </div>
   );
 }
