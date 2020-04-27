@@ -19,6 +19,10 @@ h1 {
     font-size: 22px;
     padding: 15px;
     color: $gcWhite;
+
+    @media only screen and (max-width: 600px) {
+        font-size: 18px;
+    }
 }
 
 h2 {
