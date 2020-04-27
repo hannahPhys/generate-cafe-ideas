@@ -1,6 +1,7 @@
 @import "../sass/Colors.scss";
 @import "../sass/Fonts.scss";
 
+
 html,
 body,
 #root,
@@ -24,6 +25,10 @@ h2 {
     font-family: TamilMN;
     font-weight: normal;
     font-size: 72px;
+
+    @media only screen and (max-width: 600px) {
+        font-size: 52px;
+    }
 }
 
 p {
@@ -49,9 +54,13 @@ button {
     right: 0;
     bottom: 0;
     left: 0;
-    width: 900px;
+    max-width: 900px;
     height: 300px;
     text-align: center;
+
+    @media only screen and (max-width: 600px) {
+        max-width: 400px;
+    }
 }
 
 /* Buttons styles start */
