@@ -10,7 +10,7 @@ class footer extends React.Component {
     return (
       <MDBFooter className="font-small fixed-bottom"
         style={{
-          'border-top': '1px solid ' + this.props.textColor
+          'borderTop': '1px solid ' + this.props.textColor
         }}>
         <MDBContainer fluid className="text-center">
           <MDBRow>
