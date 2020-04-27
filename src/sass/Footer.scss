@@ -18,9 +18,15 @@ footer {
 
     .mdbcol-copy {
         color: whitesmoke;
+
     }
 
     .mcbcol-about {
         color: whitesmoke;
+
+        a {
+            transition: none;
+            ;
+        }
     }
 }
