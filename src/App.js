@@ -29,7 +29,6 @@ class App extends Component {
       "#cdc4ad",
       "#dad1ba"
     ];
-    var result = this.randomValue(colors);
 
     this.setState({
       textColor: '#303d37'

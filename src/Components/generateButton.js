@@ -14,7 +14,7 @@ class GeneratorButton extends React.Component {
 	handleClick() {
 		this.props.parentMethod();
 
-		var adjectives = ["Modern", "Boho", "Simple", "Quiet", "Quirky", "Rustic", "Classic", "90's", "80's", "70's", "2000's", "Retro", "Chic", "Spacey", "Urban", "Rural", "Oaky", "Surfy", "Carnival", "Ugly", "Vegan", "Apocalyptic", "Family-Friendly", "Healthy", "Hipster", "Royal", "Greek", "Hippie", "Arabian", "Western", "Outdoor", "Caribbean", "Futuristic", "Parisian", "Co-working", "Student", "Eco-Friendly", "Expensive", "High Class", "5 Star", "Budget"];
+		var adjectives = ["Modern", "Boho", "Simple", "Quiet", "Quirky", "Rustic", "Classic", "90's", "80's", "70's", "2000's", "Retro", "Chic", "Spacey", "Urban", "Rural", "Oaky", "Surfy", "Carnival", "Ugly", "Vegan", "Apocalyptic", "Family-Friendly", "Healthy", "Hipster", "Royal", "Greek", "Hippie", "Arabian", "Western", "Outdoor", "Caribbean", "Futuristic", "Parisian", "Co-working", "Student", "Eco-Friendly", "Expensive", "High-Class", "5 Star", "Budget"];
 
 		var nouns = ["Safari", "Beach", "Garden", "Neon", "Rooftop", "Cat", "Boatshed", "Country", "Oktoberfest", "Chocolate", "Disney", "Health", "Vegan", "Family-Friendly", "Children's", "Playground", "Disco", "Turkish", "Pirate", "Star-Wars", "Apres-Ski", "BBQ", "Festival", "Student", "Co-working", "Sidewalk", "Takeaway", "Fitness", "Juice", "Backpacker"];
 
